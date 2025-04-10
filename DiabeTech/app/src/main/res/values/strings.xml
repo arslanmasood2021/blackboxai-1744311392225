@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiabeTech</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to\nDiabetics</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_login">Log in</string>
+    
+    <!-- Sign Up Screen -->
+    <string name="signup_title">Sign Up</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_continue">Continue</string>
+    <string name="social_connect">Connect with your social account</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Welcome back!</string>
+    <string name="hint_email_username">Email / Username</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_sign_in">Sign In</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_passwords_not_match">Passwords do not match</string>
+    
+    <!-- Content Descriptions -->
+    <string name="desc_logo">DiabeTech Logo</string>
+    <string name="desc_facebook">Facebook Login</string>
+    <string name="desc_google">Google Login</string>
+    <string name="desc_twitter">Twitter Login</string>
+</resources>
